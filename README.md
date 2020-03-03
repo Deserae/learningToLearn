@@ -1,6 +1,6 @@
 
 
-
+### Quick Links
 ### [Memory and the Brain](#how-memory-and-the-brain-work)
 ### [Learn](#how-to-learn)
 ### [Procrastination](#how-to-mitigate-procrastination)
@@ -55,6 +55,9 @@ It's time to put together a learning plan. These questions will help you succeed
 * How will you apply these technique or others?
 
 By answering these questions to figure out your goals the challenges you will face, you can put together a tangible gameplan in how you will suceed! :tada:
+
+## Example Plan
+*I am a software developer looking to learn new skills and become better at my job. I am currently trying to pass an IT certificate that is also being offered on Coursera. I find it difficult to finish online courses so I am using this plan to keep me on track and motivated. Procrastination and time management will be my biggest challenge for this cert. I plan on using the Pomodoro Method. I am going to do six pomodoro a day. With breaks this is about 3.5 hours a day. In order to see if this is working, I will assess my performance daily and review daily. This will allow me to ultimately see if this is working or if I need to change strategies. For the daily check ins, it will be a simple check box if completed or not. For the weekly reviews a simple sentence or two and make adjustments if needed.I get distracted easily so this is a good way to keep on task and be able to quantify my focus. This material will cover a lot of abstract concepts. I will try and think of metaphors as I’m learning and try to really put ‘myself’ into the code. I also plan to engage more with my note taking by creating mind maps. To keep balanced, I will try and hit 10,000 steps a day by going on walks and to the gym.*
 
 ### About this page
 *This is my assignment for the Honors Peer-graded final project: Learn by teaching others how to learn. This information is taken from the following course:*
