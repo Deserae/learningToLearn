@@ -1,7 +1,11 @@
+
+
+
 ### [Memory and the Brain](#how-memory-and-the-brain-work)
 ### [Learn](#how-to-learn)
 ### [Procrastination](#how-to-mitigate-procrastination)
 ### [Questions](#questions)
+### [About](#about-this-page)
 
 
 # How Memory and the Brain Work
@@ -29,10 +33,10 @@ Procrastination has always been my biggest pain point. I have never seen a more 
 Chunking is related to habits. And Habits are an energy saver. It allows you to free up the mind for other activities. Habits are powerful because they create neurological cravings. Procrastination is automatic! You often aren’t aware you are procrastinating until well into your web surfing binge. 
 
 **4 Parts to a Habit**
-The cue - the trigger to start a habit
-The routine - “zombie mode” response to the cue
-The reward - feeling of pleasure
-The belief - habits have power b/c you believe in them
+* The **cue** - the trigger to start a habit
+* The **routine** - “zombie mode” response to the cue
+* The **reward** - feeling of pleasure
+* The **belief** - habits have power b/c you believe in them
 
 The cues can be a variety of things from a location, time, feelings/mood, or reaction. Routine is where the change needs to take place. Have a plan on how to combat procrastination ahead of time! The reward can be a bit more difficult. Why are you procrastinating? Can you substitute this emotional payoff with a reward instead? Only when the brain expects a reward will habits start rewiring. Finally, the belief. Believing in your new plan will help with your success. You can also find support from others. 
 
@@ -40,7 +44,7 @@ The cues can be a variety of things from a location, time, feelings/mood, or rea
 Because procrastination is caused by negative feelings, it’s imperative to be able to put those feelings aside. In order to do that, *focus on the process and not the product*. It’s the feelings toward the product (the task, assignment, etc) that triggers the procrastination. The brain likes processes because they can be automated. So instead of focusing on the assignment and its deadline, focus on sitting for 30 minutes and work on a task. Avoiding and learning to deal with distractions is also important. 
 
 **The Plan**
-  So now that you know more than you ever expected about procrastination, what’s the next step? Well now you that you know what your new routines and rewards will be, it’s time to start building new habits and be productive. A simple time management technique is the Pomodoro method.:tomato: Ths breaks your time into twelve 25 minute chunks with breaks of varying length between. It’s easy to find [pomodoro timers online](https://tomato-timer.com/) or just use a browser timer. If you haven’t noticed, this allows for focused learning and diffused time to relax between. Weekly and daily planning lists are important as well. The night before review the following day, this will help with diffuse learning. The weekly planning will allow you to review the previous week and see if any changes need to be made to get tasks done. Set planned down time as well!
+  So now that you know more than you ever expected about procrastination, what’s the next step? Well now you that you know what your new routines and rewards will be, it’s time to start building new habits and be productive. A simple time management technique is the Pomodoro method. :tomato: Ths breaks your time into twelve 25 minute chunks with breaks of varying length between. It’s easy to find [pomodoro timers online](https://tomato-timer.com/) or just use a browser timer. If you haven’t noticed, this allows for focused learning and diffused time to relax between. Weekly and daily planning lists are important as well. The night before review the following day, this will help with diffuse learning. The weekly planning will allow you to review the previous week and see if any changes need to be made to get tasks done. Set planned down time as well!
   
 :warning: Willpower is a finite resource and takes energy. You shouldn’t use it to fight procrastination unless absolutely necessary. We don’t want to completely change habits, just override part of old ones and develop a few new ones. Try and do your hardest tasks first in the day. Otherwise completing small easy tasks can once again create an illusion of competence where you’re not accomplishing as much you think. 
   
@@ -51,5 +55,13 @@ What will be your biggest challenge to achieving this?
 How will you apply these technique or others?
 
 By answering these questions to figure out your goals the challenges you will face, you can put together a tangible gameplan in how you will suceed! :tada:
+
+##### About this page
+This is my assignment for the Honors Peer-graded final project: Learn by teaching others how to learn
+This information is taken from the following course:
+  Learning How to Learn: Powerful mental tools to help you master tough subjects
+  By: McMaster University & University of California San Diego
+  Hosted on: Coursera.org
+  Instructors: Dr. Barbara Oakley & Dr. Terrence Sejnowski
 
 
