@@ -50,9 +50,9 @@ Because procrastination is caused by negative feelings, it’s imperative to be 
   
 # Questions  
 It's time to put together a learning plan. These questions will help you succeed!
-What's the learning goal? Annd why is it important to you?
-What will be your biggest challenge to achieving this? 
-How will you apply these technique or others?
+* What's the learning goal? Annd why is it important to you?
+* What will be your biggest challenge to achieving this? 
+* How will you apply these technique or others?
 
 By answering these questions to figure out your goals the challenges you will face, you can put together a tangible gameplan in how you will suceed! :tada:
 
