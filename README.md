@@ -56,12 +56,11 @@ How will you apply these technique or others?
 
 By answering these questions to figure out your goals the challenges you will face, you can put together a tangible gameplan in how you will suceed! :tada:
 
-##### About this page
-This is my assignment for the Honors Peer-graded final project: Learn by teaching others how to learn
-This information is taken from the following course:
-  Learning How to Learn: Powerful mental tools to help you master tough subjects
-  By: McMaster University & University of California San Diego
-  Hosted on: Coursera.org
-  Instructors: Dr. Barbara Oakley & Dr. Terrence Sejnowski
+### About this page
+*This is my assignment for the Honors Peer-graded final project: Learn by teaching others how to learn. This information is taken from the following course:*
+[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- By: McMaster University & University of California San Diego
+- Hosted on: Coursera.org
+- Instructors: Dr. Barbara Oakley & Dr. Terrence Sejnowski
 
 
