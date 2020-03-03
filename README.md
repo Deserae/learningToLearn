@@ -10,9 +10,9 @@
 
 # How Memory and the Brain Work
 The brain has two modes of learning: **Focused** and **Diffused**. 
-Focused is what you traditionally think of as learning. It is deliberate and involves concentration. The second is a relaxed state where your brain creates connections. This would be like shower thoughts or perhaps when you daydream. While this one might not feel as important, both are to learn effectively. In order to invoke both styles, you should incorporate breaks into your study. Two of the most important factors in learning are adequate sleep and exercise. 
+Focused is what you traditionally think of as learning. It is deliberate and involves concentration. The second is a relaxed state where your brain creates connections. This would be like shower thoughts :bath: or perhaps when you daydream. While this one might not feel as important, both are to learn effectively. In order to invoke both styles, you should incorporate breaks into your study. Two of the most important factors in learning are adequate sleep and exercise. :sleeping_bed:	:running_woman:
 
-Your brain stores knowledge in chunks. **Chunks** are pieces of information group together in a meaningful way. Chunks can be made of smaller chunks or have connections to other ones. A good example of chunking would be chords a guitarist learns. These chunks can be combined to form a song. That song chunk could be part of a bigger chunk of performance that may include the chunks required to sing as well as play. Storing grouped information makes it easier for our brain to access later without getting bogged down in all the small pieces.
+Your brain stores knowledge in chunks. **Chunks** are pieces of information group together in a meaningful way. Chunks can be made of smaller chunks or have connections to other ones. A good example of chunking would be chords a guitarist learns. These chunks can be combined to form a song. That song chunk could be part of a bigger chunk of performance that may include the chunks required to sing as well as play. Storing grouped information makes it easier for our brain to access later without getting bogged down in all the small pieces. :octopus:
 
 # How to learn
 Now that we know how our brain learns, we can figure out the best techniques to learn efficiently. It’s important to have set time for focused learning where you are actively participating in the process. Come up with *analogies and metaphors* for abstract ideas. Imagine putting yourself into the activity you are doing and all the associated senses and emotions you would experience. Rereading notes is nowhere near as effective as trying to recall what you have learned or testing yourself. *Practice* is extremely important as well - you can’t just read and watch - you need to practice that instrument or math equations. Working with others can also help you discover blind spots in your learning. They can also hold you accountable. Being able to summarize and recognize key ideas will help create the bigger picture.
@@ -21,7 +21,7 @@ These techniques will help you use your learning time more efficiently, but ther
 
 Like mentioned before, just rereading text and notes is not the most efficient way to learn. What’s even worse is that it can give the feeling of accomplishment that you are learning when you are not. This is called the **Illusion of Competence**. Focusing on easy problems instead of the more difficult ones also contributes to this. Continually doing this can result in **Einstellung**. This German word meaning ‘mindset’ is a pattern that has become a habit but is actually preventing you from learning or growing. Sticking to the same studying routine even if you’re not performing well would be an example of this. 
 
-*And of course, don’t forget your breaks!* 
+*And of course, don’t forget your breaks!* :sleeping_bed:	:running_woman:
 
 # How to mitigate Procrastination
 Finally, to the section I waited last to write. :see_no_evil::hear_no_evil::speak_no_evil:	
