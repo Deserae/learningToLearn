@@ -1,6 +1,6 @@
-## [How Memory and the Brain Work](#how-memory-and-the-brain-work)
-## [How to learn](#how-to-learn)
-## [How to mitigate Procrastination](#how-to-mitigate-procrastination)
+## [Memory and the Brain(#how-memory-and-the-brain-work)
+## [Learn](#how-to-learn)
+## [Procrastination](#how-to-mitigate-procrastination)
 ## [Questions](#questions)
 
 
